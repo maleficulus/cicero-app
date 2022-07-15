@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta 
+  xmlns="http://exist-db.org/xquery/repo">
+  <description>my amazing tmp application</description>
+  <author>maleficulus</author>
+  <website>http://exist-db.org</website>
+  <status>SNAPSHOT</status>
+  <license>GPL-3.0</license>
+  <copyright>true</copyright>
+  <type>application</type>
+  <target>tmp</target>
+  <prepare>pre-install.xq</prepare>
+  <finish>post-install.xq</finish>
+</meta>
